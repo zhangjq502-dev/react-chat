@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+:root{
+  /* 背景 */
+  --color-bg:#fff;
+  --color-bg-sidebar:#f9f9f9;
+  --color-bg-hover:#ececec;
+  /* 文字 */
+  --color-text:#1f1f1f;
+  --color-text-secondary:#8e8e8e;
+  /* 气泡 */
+  --color-bubble-user:#f0f0f0;
+  --color-primary:#1f1f1f;
+  /* 边框 */
+  --color-border:#e5e5e5;
+  /* 尺寸 */
+  --radius: 12px;
+  --sidebar-width: 260px;
+   /* 字体 */
+  font-family: system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  line-height: 1.6;
+  color: var(--color-text);
+
+
+}
